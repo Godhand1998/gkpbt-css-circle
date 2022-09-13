@@ -1,0 +1,4 @@
+Adding the names of the browsers
+-FIrefox
+-Chrome
+-Edge
