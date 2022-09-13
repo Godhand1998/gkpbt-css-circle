@@ -1,4 +1,5 @@
 Adding the names of the browsers
--FIrefox
+-Firefox
 -Chrome
 -Edge
+-Internet Explorer
